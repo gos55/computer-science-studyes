@@ -19,7 +19,7 @@ This course is under review. The course has been designed to accommodate people 
 3. Work through all the course lectures as given in the link above. Watch the videos, do the finger exercises, and then solve the problem sets.
 4. You are not supposed to complete the problem sets as soon as they appear on a lecture page. You are supposed to start thinking about it from that point. The actual due dates, according to the [course calendar](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/calendar/) are:
 
-   - PSET 0 - Before lecture 1
+   - PSET 0 - Before lecture 1  ✅
    - PSET 1 - Before lecture 9
    - PSET 2 - Before lecture 12
    - PSET 3 - Before lecture 16
